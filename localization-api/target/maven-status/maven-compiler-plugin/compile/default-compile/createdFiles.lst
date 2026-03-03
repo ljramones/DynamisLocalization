@@ -1,9 +1,0 @@
-org/dynamislocalization/api/value/PluralCategory.class
-module-info.class
-org/dynamislocalization/api/spi/StringTableLoader.class
-org/dynamislocalization/api/StringTable.class
-org/dynamislocalization/api/value/MissingKeyBehavior.class
-org/dynamislocalization/api/value/LocaleDescriptor.class
-org/dynamislocalization/api/value/LocaleKey.class
-org/dynamislocalization/api/LocalizationService.class
-org/dynamislocalization/api/LocaleChangeListener.class

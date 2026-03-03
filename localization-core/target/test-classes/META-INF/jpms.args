@@ -1,4 +1,0 @@
---patch-module
-org.dynamislocalization.core=_
---add-reads
-org.dynamislocalization.core=ALL-UNNAMED

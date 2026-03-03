@@ -1,6 +1,0 @@
-org/dynamislocalization/core/DefaultStringTable.class
-module-info.class
-org/dynamislocalization/core/DefaultStringTable$1.class
-org/dynamislocalization/core/MinimalJsonParser.class
-org/dynamislocalization/core/PluralRuleEngine.class
-org/dynamislocalization/core/JsonStringTableLoader.class
