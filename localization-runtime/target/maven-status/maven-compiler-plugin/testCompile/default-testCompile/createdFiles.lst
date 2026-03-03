@@ -1,0 +1,7 @@
+org/dynamislocalization/runtime/LocalizationRuntimeTest.class
+org/dynamislocalization/runtime/NamespaceRegistryTest$EmptyLoader.class
+org/dynamislocalization/runtime/NamespaceRegistryTest.class
+org/dynamislocalization/runtime/NamespaceRegistryTest$UnsupportedLoader.class
+org/dynamislocalization/runtime/LocaleChangedEventTest.class
+org/dynamislocalization/runtime/NamespaceRegistryTest$StubLoader.class
+org/dynamislocalization/runtime/NamespaceRegistryTest$StubStringTable.class

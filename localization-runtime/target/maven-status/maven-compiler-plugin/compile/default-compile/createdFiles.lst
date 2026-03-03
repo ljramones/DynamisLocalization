@@ -1,0 +1,7 @@
+org/dynamislocalization/runtime/LocaleChangedEvent.class
+org/dynamislocalization/runtime/DefaultLocalizationService$1.class
+module-info.class
+org/dynamislocalization/runtime/LocalizationRuntime.class
+org/dynamislocalization/runtime/NamespaceRegistry.class
+org/dynamislocalization/runtime/DefaultLocalizationService.class
+org/dynamislocalization/runtime/LocalizationRuntime$Builder.class

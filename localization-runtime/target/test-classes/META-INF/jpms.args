@@ -1,0 +1,4 @@
+--patch-module
+org.dynamislocalization.runtime=_
+--add-reads
+org.dynamislocalization.runtime=ALL-UNNAMED

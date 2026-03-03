@@ -1,0 +1,3 @@
+org/dynamislocalization/core/MinimalJsonParserTest.class
+org/dynamislocalization/core/DefaultStringTableTest.class
+org/dynamislocalization/core/PluralRuleEngineTest.class

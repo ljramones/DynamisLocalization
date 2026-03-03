@@ -1,0 +1,9 @@
+/Users/larrymitchell/Dynamis/DynamisLocalization/localization-api/src/main/java/module-info.java
+/Users/larrymitchell/Dynamis/DynamisLocalization/localization-api/src/main/java/org/dynamislocalization/api/LocaleChangeListener.java
+/Users/larrymitchell/Dynamis/DynamisLocalization/localization-api/src/main/java/org/dynamislocalization/api/LocalizationService.java
+/Users/larrymitchell/Dynamis/DynamisLocalization/localization-api/src/main/java/org/dynamislocalization/api/StringTable.java
+/Users/larrymitchell/Dynamis/DynamisLocalization/localization-api/src/main/java/org/dynamislocalization/api/spi/StringTableLoader.java
+/Users/larrymitchell/Dynamis/DynamisLocalization/localization-api/src/main/java/org/dynamislocalization/api/value/LocaleDescriptor.java
+/Users/larrymitchell/Dynamis/DynamisLocalization/localization-api/src/main/java/org/dynamislocalization/api/value/LocaleKey.java
+/Users/larrymitchell/Dynamis/DynamisLocalization/localization-api/src/main/java/org/dynamislocalization/api/value/MissingKeyBehavior.java
+/Users/larrymitchell/Dynamis/DynamisLocalization/localization-api/src/main/java/org/dynamislocalization/api/value/PluralCategory.java

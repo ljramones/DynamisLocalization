@@ -1,0 +1,14 @@
+{
+  "locale": "fr-FR",
+  "version": "1.0",
+  "namespace": "dynamis.ui",
+  "keys": {
+    "button.confirm": "Confirmer",
+    "button.cancel": "Annuler",
+    "items.count": {
+      "one": "{count} élément",
+      "other": "{count} éléments"
+    },
+    "greeting": "Bonjour, {name} !"
+  }
+}
