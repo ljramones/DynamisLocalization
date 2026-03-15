@@ -1,9 +1,9 @@
-module org.dynamislocalization.runtime {
-    requires dynamis.core;
+module org.dynamisengine.localization.runtime {
+    requires org.dynamisengine.core;
     requires dynamis.event;
-    requires org.dynamislocalization.api;
-    requires org.dynamislocalization.core;
-    requires org.dynamislocalization.format;
+    requires org.dynamisengine.localization.api;
+    requires org.dynamisengine.localization.core;
+    requires org.dynamisengine.localization.format;
 
-    exports org.dynamislocalization.runtime;
+    exports org.dynamisengine.localization.runtime;
 }

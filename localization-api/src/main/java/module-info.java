@@ -1,7 +1,7 @@
-module org.dynamislocalization.api {
-    requires dynamis.core;
+module org.dynamisengine.localization.api {
+    requires org.dynamisengine.core;
 
-    exports org.dynamislocalization.api;
-    exports org.dynamislocalization.api.value;
-    exports org.dynamislocalization.api.spi;
+    exports org.dynamisengine.localization.api;
+    exports org.dynamisengine.localization.api.value;
+    exports org.dynamisengine.localization.api.spi;
 }

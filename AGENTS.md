@@ -20,8 +20,8 @@ localization-api → localization-core → localization-format → localization-
 Build and install in this order.
 
 ## Conventions (must match DynamisCore baseline)
-- groupId: `org.dynamislocalization`
-- Package root: `org.dynamislocalization.*`
+- groupId: `org.dynamisengine.localization`
+- Package root: `org.dynamisengine.localization.*`
 - Logging: `DynamisLogger` only — never SLF4J
 - Exceptions: root in `DynamisException` from DynamisCore
 - `module-info.java` required in every module

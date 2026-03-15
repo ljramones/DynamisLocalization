@@ -13,12 +13,12 @@ Add to your module's `pom.xml`:
 
 ```xml
 <dependency>
-    <groupId>org.dynamislocalization</groupId>
+    <groupId>org.dynamisengine.localization</groupId>
     <artifactId>localization-api</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 </dependency>
 <dependency>
-    <groupId>org.dynamislocalization</groupId>
+    <groupId>org.dynamisengine.localization</groupId>
     <artifactId>localization-runtime</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 </dependency>
@@ -27,8 +27,8 @@ Add to your module's `pom.xml`:
 Add to your `module-info.java`:
 
 ```java
-requires org.dynamislocalization.api;
-requires org.dynamislocalization.runtime;
+requires org.dynamisengine.localization.api;
+requires org.dynamisengine.localization.runtime;
 ```
 
 ---
